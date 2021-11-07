@@ -1,5 +1,4 @@
 const inquirer = require('inquirer');
-const util = require('util');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 
@@ -56,3 +55,12 @@ const questions = () => {
         }
     ])
 }
+
+const init = () => {
+    questions()
+    .then((answers) => fs.writeFileSync('README.MD', generateMarkdown(answers)))
+    .then(() => console.log("README.MD succesfully created"))
+    .catch((err) => console.error(err))
+}
+
+init()
