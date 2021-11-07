@@ -31,37 +31,36 @@ licenseLink()
 function generateMarkdown(data) {
 
     return `
-    # ${data.title}
+# ${data.title}
     
-    ${licenseBade(data.license)}
+${licenseBade(data.license)}
     
-    ## Table Of Contents
-    - [description](#Description)
-    - [installation](#Installation)
-    - [usage](#Usage)
-    - [contributions](#Contributions)
-    - [questions](#Questions)
-    - [license](#License)
+## Table Of Contents
+- [description](#Description)
+- [installation](#Installation)
+- [usage](#Usage)
+- [contributions](#Contributions)
+- [questions](#Questions)
+- [license](#License)
 
-    ## Description
-    ${data.description}
+## Description
+${data.description}
 
-    ## Installations
-    ${data.installation}
+## Installations
+${data.installation}
 
-    ## Usage
-    ${data.usage}
+## Usage
+${data.usage}
 
-    ## Contributions
-    ${data.contribution}
+## Contributions
+${data.contribution}
 
-    ## Questions
-    If you have any questions about the READ.ME Generator, please contact me either at (https://github.com${data.GitHub}) or email at ${data.email}
+## Questions
+If you have any questions about the READ.ME Generator, please contact me either at (https://github.com${data.GitHub}) or email at ${data.email}
 
-    ## License
-    This application is covered under the ${licenseLink(data.license)}
-
-    `
+## License
+This application is covered under the ${licenseLink(data.license)}
+  `
 }
 
 module.exports = generateMarkdown

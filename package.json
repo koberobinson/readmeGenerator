@@ -1,7 +1,7 @@
 {
   "name": "readmegenerator",
   "version": "1.0.0",
-  "description": "\"## Table of Contents      - [Description](#Description)     - [Installation](#Installation)     - [Usage](#Usage)     - [Contributions](#Contributions)     - [Tests](#Tests)     - [Questions](#Questions)     - [License](#License)\"",
+  "description": "## Table of Contents      - [description](#Description)     - [installation](#Installation)     - [usage](#Usage)     - [contributions](#Contributions)     - [questions](#Questions)     - [license](#License)",
   "main": "index.js",
   "dependencies": {
     "fs": "^0.0.1-security",

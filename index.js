@@ -58,8 +58,8 @@ const questions = () => {
 
 const init = () => {
     questions()
-    .then((answers) => fs.writeFileSync('README.MD', generateMarkdown(answers)))
-    .then(() => console.log("README.MD succesfully created"))
+    .then((answers) => fs.writeFileSync('README.md', generateMarkdown(answers)))
+    .then(() => console.log("README.md succesfully created"))
     .catch((err) => console.error(err))
 }
 
