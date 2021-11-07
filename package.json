@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "makes a readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koberobinson/readmeGenerator.git"
+  },
+  "author": "kobe robinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koberobinson/readmeGenerator/issues"
+  },
+  "homepage": "https://github.com/koberobinson/readmeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
