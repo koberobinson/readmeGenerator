@@ -1,20 +1,20 @@
 
 # kobe
     
-![license: Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-green)
+![license: GNU General Public License v3.0](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3.0-green)
     
 ## Table Of Contents
-- [description](#Description)
-- [installation](#Installation)
-- [usage](#Usage)
-- [contributions](#Contributions)
-- [questions](#Questions)
-- [license](#License)
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributions](#Contributions)
+- [Questions](#Questions)
+- [License](#License)
 
 ## Description
-kkobe
+kobe
 
-## Installations
+## Installation
 kobe
 
 ## Usage
@@ -24,8 +24,8 @@ kobe
 kobe
 
 ## Questions
-If you have any questions about the READ.ME Generator, please contact me either at (https://github.comkobe) or email at kobe
+If you have any questions about the READ.ME Generator, please contact me either at (https://github.com/kobe) or email at kobe
 
 ## License
-This application is covered under the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
+This application is covered under the [GNU General Public License v3.0](https://opensource.org/licenses/GPL-2.0)
   

@@ -36,17 +36,17 @@ function generateMarkdown(data) {
 ${licenseBade(data.license)}
     
 ## Table Of Contents
-- [description](#Description)
-- [installation](#Installation)
-- [usage](#Usage)
-- [contributions](#Contributions)
-- [questions](#Questions)
-- [license](#License)
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributions](#Contributions)
+- [Questions](#Questions)
+- [License](#License)
 
 ## Description
 ${data.description}
 
-## Installations
+## Installation
 ${data.installation}
 
 ## Usage
@@ -56,7 +56,7 @@ ${data.usage}
 ${data.contribution}
 
 ## Questions
-If you have any questions about the READ.ME Generator, please contact me either at (https://github.com${data.GitHub}) or email at ${data.email}
+If you have any questions about the READ.ME Generator, please contact me either at (https://github.com/${data.GitHub}) or email at ${data.email}
 
 ## License
 This application is covered under the ${licenseLink(data.license)}
