@@ -1,7 +1,7 @@
 {
   "name": "readmegenerator",
   "version": "1.0.0",
-  "description": "## Table of Contents      - [description](#Description)     - [installation](#Installation)     - [usage](#Usage)     - [contributions](#Contributions)     - [questions](#Questions)     - [license](#License)",
+  "description": "",
   "main": "index.js",
   "dependencies": {
     "fs": "^0.0.1-security",
@@ -15,9 +15,6 @@
     "type": "git",
     "url": "git+https://github.com/koberobinson/readmeGenerator.git"
   },
-  "keywords": [
-    "[]"
-  ],
   "author": "",
   "license": "ISC",
   "bugs": {

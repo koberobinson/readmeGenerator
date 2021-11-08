@@ -1,7 +1,7 @@
 
-# kobe
+# README.md Generator
     
-![license: GNU General Public License v3.0](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3.0-green)
+![license: MIT](https://img.shields.io/badge/license-MIT-green)
     
 ## Table Of Contents
 - [Description](#Description)
@@ -12,20 +12,26 @@
 - [License](#License)
 
 ## Description
-kobe
+This project will give you a good readme depending on the information you put inside of the terminal.
 
 ## Installation
-kobe
+to install this project all you need to do is "npm i inquirer". Once you have that package you can go inside of the terminal and type node index.js
 
 ## Usage
-kobe
+After installing the inquirer all you need to do is go inside of the terminal and type node index.js
 
 ## Contributions
-kobe
+He may not know but I did sneak a look at Micheal Wests github just to help my self.
+
+## Picture of Generated README.md
+![README.md](images/readme.png)
 
 ## Questions
-If you have any questions about the READ.ME Generator, please contact me either at (https://github.com/kobe) or email at kobe
+If you have any questions about the READ.ME Generator, please contact me either at (https://github.com/koberobinson) or email at koberobinson02@gmail.com
 
 ## License
-This application is covered under the [GNU General Public License v3.0](https://opensource.org/licenses/GPL-2.0)
+This application is covered under the [MIT License](https://opensource.org/licenses/MIT)
+
+## README.md Generator Video
+Link to the video: https://watch.screencastify.com/v/LDig9NwiVFocHkAW6lOg
   
